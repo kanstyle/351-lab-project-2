@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: #85AA6D;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 18;
+	color: #FFFDCE;
+	border: thin;
+	width: 960px;
+	margin: 0 auto;
+}
+a:link {
+	color: aqua
+}
+a:hover {
+	color: black;
+}

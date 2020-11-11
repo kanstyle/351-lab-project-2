@@ -1,0 +1,74 @@
+@charset "UTF-8";
+body {
+	background-position: top center;
+	background-color: hsla(96,26%,0%,1.00); /*figure this out later*/
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 26;
+	color: #FFFFFF;
+	border: thin;
+	width: 960px;
+	margin: 0 auto;
+}
+
+.copyright {
+	font-size: 11px;
+	margin-bottom: 4px;
+	margin-top: -5px;
+}
+
+.bio{
+	margin-left: 200px;
+	margin-right: 30px;
+	margin-top: 20%;
+	margin-bottom: 50%;
+	padding: 7px;
+}
+
+.gallery_item {
+	padding: 10px;
+	display: inline-block;
+	background-color: hsla(96,0%,69%,0.4);
+	border-radius: 4px;
+	margin: 10px;
+}
+
+.bio h1 {
+	font-size: 40px;
+}
+.about {
+	padding: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	display: inline-block;
+	background-color: hsla(99,0%,56%,1.00);
+	border-radius: 4px;
+	margin: 10px;
+}
+
+nav {
+	padding: 16px;
+	margin-top: 8px;
+	position: top center;
+	background-color: hsla(96,0%,69%,0.4);
+	border-radius: 8px
+}
+nav a {
+	font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-right: 40px;
+	margin-left: 4px;
+	text-decoration: none;
+	font-weight: 900;
+}
+nav a:link {
+	color: #FFFFFF;
+}
+nav a:visited {
+	color: #FFFFFF;
+}
+nav a:hover {
+	color: #FFD6D6;
+}
+.contact {
+	float: right;
+	margin-right: 4px
+}

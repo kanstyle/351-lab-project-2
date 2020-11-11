@@ -1,0 +1,6 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 18
+}
